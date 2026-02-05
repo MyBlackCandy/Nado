@@ -1,6 +1,6 @@
 <?php
 // ดึงค่า Config จาก Railway Variables
-$token = getenv('BOT_TOKEN');
+$token = getenv('8432947057:AAFRSJX5zlNy9NgUe9h7mx0pUiN25GwZLyw');
 $api_url = "https://api.telegram.org/bot" . $token;
 
 // รับข้อมูลจาก Telegram
